@@ -1,5 +1,5 @@
 # Welcome to GitHub Desktop!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Congratulation! You already get the first point. You can check the file name as the point title.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+The file conclude a map to lead you to next point and have a tip about the position of artcodes.
